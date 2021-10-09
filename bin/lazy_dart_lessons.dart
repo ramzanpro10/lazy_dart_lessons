@@ -1,3 +1,7 @@
 void main(List<String> arguments) {
-  print(19);
+  int i = 0;
+  while (i < 6) {
+    i++;
+    print(19);
+  }
 }
