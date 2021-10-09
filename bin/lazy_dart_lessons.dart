@@ -1,4 +1,4 @@
-void main(List<String> arguments) {
+void main() {
   int i = 0;
   while (i < 6) {
     i++;
